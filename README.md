@@ -4,7 +4,7 @@
 
 I am a student at brock university 
 
-![](imagez/goodBoy.jpeg)
+![](imageZ/goodBoy.jpeg)
 
 ##Blog post
 
