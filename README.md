@@ -8,4 +8,4 @@ I am a student at brock university
 
 ##Blog post
 
-first sentence of BP goes here...
+first sentence of BP goes here...[continue reading](blog)
