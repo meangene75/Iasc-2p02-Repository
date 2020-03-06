@@ -12,6 +12,6 @@ http and https sites, but if you're embedding this into a local web page (file p
 you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
-<iframe style='width: 100%; height: 800px;' src='https://voyant-tools.org/?panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=1342f94600b77a46b8b925b591f5a39e'></iframe>
+<!--<iframe style='width: 477px; height: 350px;' src='https://voyant-tools.org/tool/Trends/?query=cultural*&query=culture*&corpus=1342f94600b77a46b8b925b591f5a39e'></iframe>-->
 
 Praesent auctor elit quis sem tempus convallis. Morbi neque diam, scelerisque vel justo et, viverra blandit metus. In viverra lorem ipsum, aliquam maximus augue suscipit ac. Cras sagittis quam sem, et efficitur ipsum pulvinar non. In tincidunt massa augue. Donec lorem lectus, suscipit et placerat pharetra, vulputate non erat. Nunc suscipit nibh eu egestas hendrerit. Cras vel facilisis risus, vitae luctus magna. Donec odio orci, dapibus ut varius non, vulputate eu sapien. Sed at libero pulvinar, fermentum diam ut, tempor risus. Nam eu ex vel diam congue lobortis. Pellentesque ullamcorper tortor id neque accumsan, at hendrerit felis ultricies.
