@@ -10,6 +10,6 @@ woah cool text!
 ![](ImageZ/goodBoy.jpg)
 
 
-##Blog post
+## Blog post
 
 first sentence of BP goes here...[continue reading](blog)
