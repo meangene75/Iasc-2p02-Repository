@@ -13,7 +13,7 @@ http and https sites, but if you're embedding this into a local web page (file p
 you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
-<iframe style='width: 50%; height: 379px;' src='https://voyant-tools.org/tool/CollocatesGraph/?query=gender&query=data&query=analysis&mode=corpus&corpus=b29bc22520c87f3a57abb35688536550'></iframe>
+<iframe style='width: 100%; height: 379px;' src='https://voyant-tools.org/tool/CollocatesGraph/?query=gender&query=data&query=analysis&mode=corpus&corpus=b29bc22520c87f3a57abb35688536550'></iframe>
 
 <!--	Exported from Voyant Tools (voyant-tools.org).
 The iframe src attribute below uses a relative protocol to better function with both
@@ -21,7 +21,7 @@ http and https sites, but if you're embedding this into a local web page (file p
 you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
-<iframe style='width: 50%; height: 379px;' src='https://voyant-tools.org/tool/Trends/?query=gender&query=data&query=analysis&query=cultural&query=writing&mode=document&corpus=b29bc22520c87f3a57abb35688536550'></iframe>
+<iframe style='width: 100%; height: 379px;' src='https://voyant-tools.org/tool/Trends/?query=gender&query=data&query=analysis&query=cultural&query=writing&mode=document&corpus=b29bc22520c87f3a57abb35688536550'></iframe>
   
 By looking at this visualization I am able to interpret what the article is about and what the main points are. Based on the fact that gender is one of the most frequent words in the text you can interpret that gender plays a large role in this reading. Using the link tool you can even see how gender relates to other themes in the text. It seems that gender is connected to words like analysis and culture, so the reader could interpret that this reading not only talks about genders, but analysis them along with the different cultures that recognise multiple genders. By using these visualizations along with the text it not only helps the reader understand the content better, but lets the reader interpret their own meaning of the text and data. This is also achieved through multiple visuals that broaden the readers take on the data, instead of one visual trying to describe multiple sets of data. 
 
