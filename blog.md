@@ -1,3 +1,6 @@
+## Analysis of Visualization in Literature
+by Eugene Payne 
+
 Graphs are good for cataloging and storing information in them, but finding these in articles and other readings is usually a rare sight. Using graphs in this way can help us interpret things in a new light, and can broaden the perception of the reader if done right. Such are the arguments of Franco Moretti and Johanna Druker, who agree that moving from written to visual mediums is beneficial to the reader.  
 
 Moretti presented a lot of graphs that showed the rise and fall of different genres of novel in multiple countries. His use of graphs illustrates the points that he makes in the article; that novels had a massive increase in interest in the 1700’s to 1800’s, and after the1900’s the population's desire for novels began to drop(p.68 to p.75). This is conveyed by switching from written text to visual graphs acting as evidence to the arguments made. The way that this is achieved is by treating the graphs and written work as one. In Moretti’s words ”it’s a collective system, that should be grasped as such, as a whole—and the graphs that follow are one way to begin doing this.”(p.67). By implementing graphs into his work he not only presents proof in his writing, but also gives a visual interpretation of that evidence.
