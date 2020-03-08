@@ -2,7 +2,7 @@
 
 ## About me 
 
-I am a student at brock university 
+I am a student at brock university currently in my 2nd year. My intrests inclued music production, graphic design, and game direction. 
 
 woah cool text!
 ![](images/goodBoy.jpg)
