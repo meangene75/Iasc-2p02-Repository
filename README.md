@@ -11,5 +11,4 @@ woah cool text!
 
 
 ## Blog post
-
-first sentence of BP goes here...[continue reading](blog)
+Graphs are good for cataloging and storing information in them, but finding these in articles and other readings is usually a rare sight...[continue reading](blog)
